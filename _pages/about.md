@@ -1,35 +1,23 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About Me
 permalink: /about
-comments: true
 ---
 
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">
+I am deeply passionate about the ever-evolving landscape of artificial intelligence, dedicating myself to staying at the forefront of AI trends and technologies. My journey in AI is marked by a commitment to creating solutions that are not only innovative but also accessible and replicable, regardless of computational resources. This drive stems from my belief that the power of AI should be in the hands of many, not just a select few.
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+_🔗 Connect with me to explore AI's potential, share insights, and collaborate on projects that push the boundaries of what's possible with AI._
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+#### My Certifications
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+**[Coursera Certification - Generative AI with Large Language Models](https://coursera.org/share/602a3e4f3d73e3439128e30dcfae2429)**
 
-<h4>Questions or bug reports?</h4>
+Learned the nuances of how LLMs work and how to get industry grade results in AI using the latest techniques
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+#### My Projects
 
-</div>
+**[StudyOracle](https://studyoracle.com)**
 
-<div class="col-md-4">
-
-<div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
-
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
-
-</div>
-</div>
-</div>
+- Created an AI-driven question-answer service for PDFs to 10x student productivity.
+- Handled 100+ users with 99% availability at a budget of less than $80 per month
+- Single-handedly managed automated builds, deployment, and maintenance of the application.
