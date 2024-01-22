@@ -8,13 +8,13 @@ I am deeply passionate about the ever-evolving landscape of artificial intellige
 
 _🔗 Connect with me to explore AI's potential, share insights, and collaborate on projects that push the boundaries of what's possible with AI._
 
-#### My Certifications
+#### Certifications
 
 **[Coursera Certification - Generative AI with Large Language Models](https://coursera.org/share/602a3e4f3d73e3439128e30dcfae2429)**
 
 Learned the nuances of how LLMs work and how to get industry grade results in AI using the latest techniques
 
-#### My Projects
+#### Projects
 
 **[StudyOracle](https://studyoracle.com)**
 
