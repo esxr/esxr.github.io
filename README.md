@@ -1,23 +1,19 @@
-# Mediumish - Jekyll Theme
+# esxr.io
 
-[Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/template-mediumish-bootstrap-jekyll/) &nbsp; | &nbsp; [Buy me a coffee](https://www.wowthemes.net/donate/)
+I am deeply passionate about the ever-evolving landscape of artificial intelligence, dedicating myself to staying at the forefront of AI trends and technologies. My journey in AI is marked by a commitment to creating solutions that are not only innovative but also accessible and replicable, regardless of computational resources. This drive stems from my belief that the power of AI should be in the hands of many, not just a select few.
 
-![mediumish](assets/images/mediumish-jekyll-template.png)
+_🔗 Connect with me to explore AI's potential, share insights, and collaborate on projects that push the boundaries of what's possible with AI._
 
+#### Certifications
 
-### Copyright
+**[Coursera Certification - Generative AI with Large Language Models](https://coursera.org/share/602a3e4f3d73e3439128e30dcfae2429)**
 
-Copyright (C) 2019 Sal, https://www.wowthemes.net
+Learned the nuances of how LLMs work and how to get industry grade results in AI using the latest techniques
 
-**Mediumish for Jekyll** is designed and developed by [Sal](https://www.wowthemes.net) and it is *free* under MIT license. 
+#### Projects
 
-<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+**[StudyOracle](https://studyoracle.com)**
 
-### Contribute
-
-1. [Fork the repo](https://github.com/wowthemesnet/mediumish-theme-jekyll).
-2. Clone a copy of your fork on your local
-3. Create a branch off of master and give it a meaningful name (e.g. my-new-mediumish-feature).
-4. Make necessary changes, commit, push and open a pull request on GitHub.
-
-Thank you!
+- Created an AI-driven question-answer service for PDFs to 10x student productivity.
+- Handled 100+ users with 99% availability at a budget of less than $80 per month
+- Single-handedly managed automated builds, deployment, and maintenance of the application.
