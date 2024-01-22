@@ -18,13 +18,16 @@ _🔗 Connect with me to explore AI's potential, share insights, and collaborate
 - Used Eventlet framework with Celery for multithreaded I/O, speeding up the system's ability to handle user requests by
   more than 50x.
 - Created automated tests using AI and executed them, reducing testing time by 80%.
-  Technology Exposure: React, TypeScript, Celery, Eventlet, Github Actions, Docker, AWS
+
+Technology Exposure: _React, TypeScript, Celery, Eventlet, Github Actions, Docker, AWS_
 
 **[StudyOracle](https://github.com/esxr/studyoracle)**
 
 - Created an AI-driven question-answer service for PDFs to 10x student productivity.
 - Handled 100+ users with 99% availability at a budget of less than $80 per month
 - Single-handedly managed automated builds, deployment, and maintenance of the application.
+
+Technology Exposure: _Auth0, PostgreSQL, Docker, Flask, Redis, SQLAlchemy_
 
 ---
 
