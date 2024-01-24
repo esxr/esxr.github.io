@@ -21,7 +21,9 @@ _🔗 Connect with me to explore AI's potential, share insights, and collaborate
 
 Technology Exposure: _React, TypeScript, Celery, Eventlet, Github Actions, Docker, AWS_
 
-**[StudyOracle](https://github.com/esxr/studyoracle)**
+**[StudyOracle](https://github.com/esxr/studyoracle)**, 2023
+
+![](/images/studyoracle_demo.gif)
 
 - Created an AI-driven question-answer service for PDFs to 10x student productivity.
 - Handled 100+ users with 99% availability at a budget of less than $80 per month
